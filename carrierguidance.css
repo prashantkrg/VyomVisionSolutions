@@ -1,0 +1,106 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: "SUSE", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.career-heading{
+    height: 30vh;
+    background-color: rgb(210, 224, 251);
+    color: black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    letter-spacing: .8em;
+    border-radius: 5px;
+    
+}
+.career-title{
+    font-size: 3em;
+    font-weight: 800;
+}
+.career-details{
+   display: flex;
+   background-color: rgb(254, 249, 217);
+   color: gray;
+   padding: 2em;
+   text-align: justify;
+   word-spacing: .6em;
+   letter-spacing: .1em;
+   line-height: 2;
+
+}
+.career-details-description{
+
+
+}
+
+.career-services{
+    
+    
+}
+.career-services-container{
+    background-color: rgb(22, 50, 91);
+    height: 70vh;
+    padding-top: -10px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+  
+}
+.career-servive-heading{
+    
+    color: aliceblue;
+    font-weight: 900;
+    font-size: 1.3em;
+    padding: 2em;
+}
+.career-service-hire-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 2em;
+    position: absolute;
+  
+
+
+}
+.career-services-hire{
+    position: relative;
+    height: 20vh;
+    width: 20vw;
+    background-color: gray;
+    left: 10px ;
+    top: 140px;
+    border-radius: 5px;
+}
+.hire-profile{
+    position: absolute;
+    left: 8vw;
+    top: -10px;
+    height: 1.4em;
+    width: 1.4em;
+    background-color: aliceblue;
+    color: black;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.H4{
+    display: flex;
+    justify-content: center;
+    margin-top: 18px;
+    word-spacing: 2px;
+}
+
+.nav{
+    font-size: 12px;
+}
+
+
+
